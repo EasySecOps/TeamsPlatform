@@ -1,4 +1,4 @@
-# TeamsPlatform
+# Teams Platform Story
 
 As Teams gets established as the goto place for collaboration, here’s how organisations  are getting even more value from their Teams platform.
 
