@@ -29,4 +29,5 @@ Here’s a list of all the available apps: [App Connections - Microsoft Teams](h
 # [download summary pdf](https://github.com/EasySecOps/TeamsPlatform/raw/main/TeamsPlatform.pdf)
 
 ![Teams as a Platform](https://github.com/EasySecOps/TeamsPlatform/blob/main/TeamsPlatform.png?raw=true)
-Read [this e-book](https://info.microsoft.com/ww-landing-3-ways-to-integrate-Teams-apps-into-your-business.html) for more info 
+
+**Read [this e-book](https://info.microsoft.com/ww-landing-3-ways-to-integrate-Teams-apps-into-your-business.html) for more info**
